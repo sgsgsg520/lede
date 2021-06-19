@@ -8,6 +8,7 @@ src-git AdGuardHome https://github.com/AdguardTeam/AdGuardHome.git
 src-git smartdns https://github.com/pymumu/smartdns.git
 src-git edge https://github.com/fatelpc/luci-theme-edge.git
 src-git argon https://github.com/jerrykuku/luci-theme-argon
+src-git serverchan https://github.com/tty228/luci-app-serverchan.git
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
