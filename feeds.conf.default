@@ -8,5 +8,3 @@ src-git AdGuardHome https://github.com/AdguardTeam/AdGuardHome.git
 src-git helloworld https://github.com/fw876/helloworld
 src-git smartdns https://github.com/qianmuyixiao/luci-app-smartdns.git
 src-git adguardhome https://github.com/uamrws/luci-app-adguardhome.git
-src-git jd-dailybonus https://github.com/jerrykuku/luci-app-jd-dailybonus.git
-src-git OpenAppFilter https://github.com/destan19/OpenAppFilter.git
